@@ -1,0 +1,6 @@
+**/.ninja_*
+**/build.ninja
+**/CMakeFiles/*
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/check_container_size*
